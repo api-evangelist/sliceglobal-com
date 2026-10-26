@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Slice is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by insight-partners) and added to the network as a stub for full-pipeline profiling.
-- https://www.sliceglobal.com/
+Slice provides a global equity compliance and tax platform that helps companies manage cap tables, equity grants, stock options, and related regulatory reporting across multiple jurisdictions. Their SaaS solution automates equity plan administration, share registry, warrant management, and compliance workflows, offering tools for board approvals, 83(b) elections, and global reporting to keep companies tax‑compliant and reduce manual effort.
+
+**Areas:** Company · Equity · Compliance · SaaS · CapTable
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.sliceglobal.com/)
+- [Pricing](https://www.sliceglobal.com/plans)
+- [Support](https://www.sliceglobal.com/contact)
+- [Blog](https://www.sliceglobal.com/blog)
+- [Security](https://www.sliceglobal.com/security)
+- [Compliance](https://www.sliceglobal.com/security)
+- [Privacy policy](https://www.sliceglobal.com/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sliceglobal-com/](https://apis.io/providers/sliceglobal-com/).
